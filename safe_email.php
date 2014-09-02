@@ -1,6 +1,8 @@
 <?php
 
 ##### A FUNCTION TO OBFUSCATE EMAIL AND AVOID SPAM #####
+##### Written by Daian Gan based on CodeIgniter safe_mailto() function #####
+##### http://ganmedia.com #####
 
 function safe_email($email) {
 
